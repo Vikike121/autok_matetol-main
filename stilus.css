@@ -1,0 +1,47 @@
+body {
+    background-image: url(auto_background_14.jpg);
+    background-color: black;
+    color: white;
+    font-family: "Verdana, Geneva, Tahoma", sans-serif;
+    margin:auto;
+    max-width: 1000px;
+
+}
+a {
+    color: orange;
+    padding: 20px;
+    margin: 30px;
+    border:10px solid orange;
+    border-radius: 50%;
+    background-color: rgb (50,48,48);
+    text-decoration: none;
+}
+
+img {
+    width: 400px;
+    border: 10px;
+    border-radius: 50%;
+    border: 10px solid rgb(50, 48, 48);
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 30px;
+    font-size: 50px;
+    font-size: large;
+    padding: 20px;
+
+}
+
+h2 {
+    background-color: rgb(50, 48, 48);
+    padding: 30px;
+    border-radius: 50%;
+}
+p{
+    text-align-last: justify;
+    font-size: 15px;
+    text-shadow: 10px;
+}
+
